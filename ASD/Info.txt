@@ -1,0 +1,4 @@
+https://www.researchgate.net/project/Predicting-Autism-Spectrum-Disorder-Using-Machine-Learning-and-Eye-Tracking
+ The key idea is totransform eye-tracking scanpaths into a visual representation, and hence the diagnosis can be approached asan image classification task. 
+
+(8) (PDF) Learning to Predict Autism Spectrum Disorder based on the Visual Patterns of Eye-tracking Scanpaths. Available from: https://www.researchgate.net/publication/331784416_Learning_to_Predict_Autism_Spectrum_Disorder_based_on_the_Visual_Patterns_of_Eye-tracking_Scanpaths [accessed Mar 14 2023].
